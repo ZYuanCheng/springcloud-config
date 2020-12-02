@@ -1,2 +1,2 @@
 config:
-  inof: "master branch,springcloud-config/config-test.yml version=1"
+  inof: "dev branch,springcloud-config/config-test.yml version=1"
