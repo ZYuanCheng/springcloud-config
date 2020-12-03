@@ -1,2 +1,2 @@
 config:
-  inof: "master branch,springcloud-config/config-dev.yml version=3"
+  inof: "master branch,springcloud-config/config-dev.yml version=4"
